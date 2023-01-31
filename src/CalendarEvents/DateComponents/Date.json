@@ -1,0 +1,86 @@
+[
+  {
+    "date": "1",
+    "week": "SUN",
+    "events": [
+      {
+        "title": "Today is Holiday ",
+        "description": "Play cricket and enjoy a lot"
+      }
+    ]
+  },
+  {
+    "date": "2",
+    "week": "MON",
+    "events": [
+      {
+        "title": "Office Work",
+        "description": "Need to do some improvements in my project work"
+      }
+    ]
+  },
+  {
+    "date": "3",
+    "week": "TUE",
+    "events": [
+      {
+        "title": "Birthday Party",
+        "description": "I have to goto my colleagues Birthday party"
+      }
+    ]
+  },
+  {
+    "date": "4",
+    "week": "WED",
+    "events": [
+      {
+        "title": "Tour",
+        "description": " I should go to salihundam with my friends"
+      }
+    ]
+  },
+  {
+    "date": "5",
+    "week": "THU",
+    "events": [
+      { "title": "Devotion ", "description": "Go to temple to pray GOD" }
+    ]
+  },
+  {
+    "date": "6",
+    "week": "FRI",
+    "events": [
+      {
+        "title": "Office Work",
+        "description": "Today is important to submit my project work"
+      }
+    ]
+  },
+  {
+    "date": "7",
+    "week": "SAT",
+    "events": [
+      { "title": "Holiday", "description": "Learn something to improve mySelf" }
+    ]
+  },
+  {
+    "date": "8",
+    "week": "SUN",
+    "events": [
+      {
+        "title": "Today is Holiday ",
+        "description": "get rid of officeWork and have a fun with my friends and family members"
+      }
+    ]
+  },
+  {
+    "date": "9",
+    "week": "MON",
+    "events": [{ "title": "Office Work", "description": " Attend to meeting " }]
+  },
+  {
+    "date": "10",
+    "week": "TUE",
+    "events": [{ "title": "Office Work", "description": "Again office work" }]
+  }
+]
