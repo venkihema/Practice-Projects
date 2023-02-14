@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Title": "HarryPotter",
+    "Author": "Rowling, J.K.",
+    "Price": 1000,
+    "img": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+  },
+  {
+    "Id": 2,
+    "Title": "Fifty Shades of Grey",
+    "Author": "James, E. L.",
+    "Price": 900,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7a14953248faec4d8a2c55b341da6449ca92308d360ea3824538e65fb39eb799._RI_V_TTW_.jpg"
+  },
+  {
+    "Id": 3,
+    "Title": "Angels and Demons",
+    "Author": "Brown, Dan",
+    "Price": 1100,
+    "img": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/244908_angels_and_demons_2009_1400x2100_1.jpg?itok=e_bwZfZX"
+  },
+  {
+    "Id": 4,
+    "Title": "Twilight",
+    "Author": "Meyer, Stephenie",
+    "Price": 1000,
+    "img": "https://m.media-amazon.com/images/I/81RmRRzJsiL._RI_.jpg"
+  },
+  {
+    "Id": 5,
+    "Title": "Lost Symbol",
+    "Author": "Brown, Dan",
+    "Price": 800,
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/07/LostSymbol.jpg"
+  },
+  {
+    "Id": 6,
+    "Title": "New Moon",
+    "Author": "Meyer, Stephenie",
+    "Price": 1400,
+    "img": "https://m.media-amazon.com/images/I/41kvcfL3iuL.jpg"
+  },
+  {
+    "Id": 7,
+    "Title": "Eclipse",
+    "Author": "Meyer, Stephenie",
+    "Price": 799,
+    "img": "https://m.media-amazon.com/images/I/41MOIw96LlL.jpg"
+  },
+  {
+    "Id": 8,
+    "Title": "Digital Fortress",
+    "Author": "Brown, Dan",
+    "Price": 500,
+    "img": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/926/9780312944926.jpg"
+  },
+  {
+    "Id": 9,
+    "Title": "Jamie's 30-Minute Meals",
+    "Author": "Oliver, Jamie",
+    "Price": 600,
+    "img": "https://m.media-amazon.com/images/I/81fg9eA+qqL.jpg"
+  },
+  {
+    "Id": 10,
+    "Title": "One Day",
+    "Author": "Nicholls, David",
+    "Price": 499,
+    "img": "https://m.media-amazon.com/images/M/MV5BMTQ3NTg2MDI3NF5BMl5BanBnXkFtZTcwMjc5MTA1NA@@._V1_.jpg"
+  },
+  {
+    "Id": 11,
+    "Title": "Atonement",
+    "Author": "McEwan, Ian",
+    "Price": 999,
+    "img": "https://flxt.tmsimg.com/assets/p167496_p_v8_am.jpg"
+  },
+  {
+    "Id": 12,
+    "Title": "Life of Pi",
+    "Author": "Martel, Yann",
+    "Price": 1999,
+    "img": "https://flxt.tmsimg.com/assets/p9227710_p_v8_ac.jpg"
+  }
+]

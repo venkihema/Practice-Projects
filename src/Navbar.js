@@ -13,7 +13,21 @@ export const Navbar = () => {
         <Link to="events">
           <h2>CalendarEvents</h2>
         </Link>
+        <Link to="bookstore">
+          <h2>BookStore</h2>
+        </Link>
       </nav>
     </div>
   );
 };
+
+// const clickedBook = Books.find((book) => id === book.Id);
+// console.log(clickedBook);
+
+// let storage = JSON.parse(localStorage.getItem("cart"));
+// if (storage === null) {
+//   storage = [];
+// } else {
+//   const addedBooks = [...storage, clickedBook];
+//   localStorage.setItem("cart", JSON.stringify(addedBooks));
+// }

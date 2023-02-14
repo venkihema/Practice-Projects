@@ -13,7 +13,7 @@ export const CalendarEvents = () => {
     <div>
       <Box
         sx={{
-          width: "32%",
+          maxWidth: 500,
           borderRadius: "15px",
           height: "100vh",
           m: "auto",
